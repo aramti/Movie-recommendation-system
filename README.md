@@ -14,6 +14,7 @@ Recommender systems personalize content by learning user preferences from histor
    - Represented the user–movie ratings matrix in sparse format.
    - Used cosine similarity to measure closeness between users or items.
    - Applied KNN to retrieve the most similar movies or users.
+     
 2️⃣ SVD (Latent Factor Model)
    - Decomposed the user–movie ratings matrix into latent user and movie embeddings.
    - Learned hidden factors that explain user preferences and movie characteristics.
