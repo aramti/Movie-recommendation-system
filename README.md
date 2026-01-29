@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+## 🎬 Movie Recommendation System
 This project implements two collaborative filtering approaches for movie recommendation:
    - K-Nearest Neighbors (KNN) with cosine similarity
    - Matrix Factorization using Singular Value Decomposition (SVD)
