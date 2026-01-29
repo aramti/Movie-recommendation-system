@@ -57,13 +57,6 @@ Sample SVD-based recommendations:
 | 9    | Kung Fu Panda (2008)         | 0.827870   |
 | 10   | Bourne Ultimatum, The (2007) | 0.814532   |
 
-
-## Comparison of Methods
-- KNN: interpretable, directly shows similar movies.
-- SVD: captures hidden patterns, better for cold-start users/items.
-- Both methods give slightly different top recommendations because one relies on explicit similarity, the other on latent factors.
-- Evaluation can be done using RMSE, Precision@K, Recall@K once ground-truth test ratings are available.
-
 ## Future Improvements
 - Combine KNN + SVD into a hybrid recommender for better accuracy.
 
